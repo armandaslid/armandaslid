@@ -1,7 +1,9 @@
-### Hi, My name is Armandas Lidzius and I'm a Junior Data Engineer 👋
+### Hi! :wave: My name is Armandas Lidžius and I'm a Junior Data Engineer
 
-Welcome to my GitHub! Check out my projects to see what I've been working on.
+Welcome to my GitHub! :computer: Check out my projects to see what I've been working on.
 I'm constantly learning new technologies and improving my skills in Python,
-SQL, and cloud platforms like Azure.
+SQL, and cloud platforms like Azure :floppy_disk:
 
 Feel free to connect if you're interested!
+
+:email: armandaslid@gmail.com
