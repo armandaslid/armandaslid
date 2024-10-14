@@ -6,4 +6,5 @@ SQL, and cloud platforms like Azure :floppy_disk:
 
 Feel free to connect if you're interested!
 
+:computer: www.linkedin.com/in/armandas-lidzius
 :email: armandaslid@gmail.com
