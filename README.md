@@ -5,6 +5,3 @@ I'm constantly learning new technologies and improving my skills in Python,
 SQL, and cloud platforms like Azure :floppy_disk:
 
 Feel free to connect if you're interested!
-
-:computer: www.linkedin.com/in/armandas-lidzius <br />
-:email: armandaslid@gmail.com
