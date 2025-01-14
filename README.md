@@ -8,5 +8,5 @@ Feel free to connect if you're interested!
 
 My projects and repositories can be found [here](https://github.com/armandaslid?tab=repositories)  
 My certifications:
-- [Data Engineer Associate](https://www.datacamp.com/certificate/DEA0010649662241)
-- [SQL Associate](https://www.datacamp.com/certificate/SQA0010389827203)
+- [Data Engineer Associate on DataCamp](https://www.datacamp.com/certificate/DEA0010649662241)
+- [SQL Associate on DataCamp](https://www.datacamp.com/certificate/SQA0010389827203)
