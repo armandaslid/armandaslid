@@ -5,3 +5,5 @@ I'm constantly learning new technologies and improving my skills in SQL,
 Python and cloud platforms like Google Cloud :floppy_disk:
 
 Feel free to connect if you're interested!
+
+My repositories [here](https://github.com/armandaslid?tab=repositories)
