@@ -7,6 +7,7 @@ Python, cloud platforms like Google Cloud and data transformation tools like dbt
 Feel free to connect if you're interested!
 
 My projects and repositories can be found [here](https://github.com/armandaslid?tab=repositories)  
+  
 My certifications:
 - [Data Engineer Associate on DataCamp](https://www.datacamp.com/certificate/DEA0010649662241)
 - [SQL Associate on DataCamp](https://www.datacamp.com/certificate/SQA0010389827203)
