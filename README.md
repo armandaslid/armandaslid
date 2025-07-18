@@ -1,4 +1,4 @@
-### Hi! :wave: My name is Armandas Lidžius and I'm a Junior Data & Analytics Professional
+### Hi! :wave: My name is Armandas Lidžius and I'm a Data & Analytics Professional
 
 Welcome to my GitHub! :computer: Check out my projects to see what I've been working on.
 I'm constantly learning new technologies and improving my skills in SQL,
